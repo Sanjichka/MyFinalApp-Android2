@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAppFinal</string>
+    <string name="txt_TakeBreak">Take a break ^_^</string>
+    <string name="txt_PerfectWeather">Perfect weather for going outside :D</string>
+</resources>
